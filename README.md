@@ -91,10 +91,6 @@ Metrics include:
 
 - Add experiment tracking (TensorBoard / Weights & Biases)
 
-## Author
-Zeyad Alghamdi
-Computer Science – Artificial Intelligence
-King Abdulaziz University
 
 ## License
 This project is intended for educational purposes only.
